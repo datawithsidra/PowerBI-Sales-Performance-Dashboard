@@ -40,5 +40,5 @@ This dashboard can help a business:
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Sales Performance Dashboard](Sales-Performance-Dashboard.png)
 
